@@ -1,0 +1,2 @@
+# newbs
+Semestro projektas
